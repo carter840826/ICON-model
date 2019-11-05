@@ -1,6 +1,6 @@
 # ICON-model
 
-# ICON全名為nfer connections of networks
+# ICON全名為Infer connections of networks
 # 為動態拓樸學一論文發表之模型
 #
 # 此篇為建立ICON模型預測溫室內空氣溫度、土壤溫度及體積水分含量環境因子
